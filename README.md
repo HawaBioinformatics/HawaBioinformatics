@@ -8,7 +8,7 @@ I use machine learning (ML) approaches to find new drug targets for cancer patie
 
 I use R primarily for data wrangling and visualization in the tidyverse ecosystem;
 
-I use Python for writing Snakemake workflows and reformatting data;
+I use Python for writing processing workflows and reformatting data;
 
 I care about reproducible research and open science.
 
