@@ -12,4 +12,4 @@ I use Python for writing Snakemake workflows and reformatting data;
 
 I care about reproducible research and open science.
 
-Learn more about me at [https://tommytang.bio.link/](https://www.linkedin.com/in/hawacoulibaly/)
+Learn more about me at [https://www.linkedin.com/in/hawacoulibaly/)
